@@ -14,6 +14,7 @@
         {
             Cube x = new Cube();
             x.getArea();
+            x.getPerimiter();
             Cube.getSideCount();
 
             return 0;
